@@ -1,2 +1,1 @@
-# Check-R
-A data analysis validation utility using Google Maps/Places API
+‘Check’r’ is a web application that validates the accuracy of a given data set against Google Maps database holdings. The app processes user inputted data through the ArcPy module and then executes spatial queries against the Google Maps API. The resulting JSON is then analyzed for spatial accuracy and attribution which is then returned to the user.
